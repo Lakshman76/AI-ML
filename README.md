@@ -8,3 +8,4 @@ Tracking my daily Pandas practice and notes.
 - [x] Day 2 - Series of Pandas
 - [X] Day 3 - Dataframe of pandas
 - [X] Day 4 - Series + Dataset method in pandas
+- [X] Day 5 - Machine Learning Project 
