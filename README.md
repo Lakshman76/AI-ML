@@ -1,4 +1,4 @@
-# Pandas Learning Journey
+# Machine Learning Journey
 
 Tracking my daily Pandas practice and notes.
 
